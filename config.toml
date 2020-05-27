@@ -1,0 +1,4 @@
+baseURL = "http://join.technopolis.app/"
+languageCode = "ja-jp"
+title = "Technopolis Project"
+theme = "ananke"

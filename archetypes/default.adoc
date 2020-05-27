@@ -1,0 +1,13 @@
++++
+title = "{{ replace .Name "-" " " | title }}"
+date = "{{ .Date }}"
+author = ""
+aliases = []
+categories = []
+tags = []
+comments = false
+description = ""
+keywords = ""
+isCJKLanguage = true
+draft = true
++++
